@@ -4,4 +4,4 @@ LSTM.py为使用LSTM分类的文件
 CNN.py为使用CNN分类的文件
 naiveBayes.py为使用朴素贝叶斯分类的文件
 
-中科院成都计算所-何欣洋
+中科院成都计算所-hxy
