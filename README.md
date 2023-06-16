@@ -1,0 +1,7 @@
+sentiwordnet.py为使用sentiwordnet情感词典进行情感分类的文件
+svmsenti.py为使用svm进行情感分析的文件
+LSTM.py为使用LSTM分类的文件
+CNN.py为使用CNN分类的文件
+naiveBayes.py为使用朴素贝叶斯分类的文件
+
+中科院成都计算所-何欣洋
